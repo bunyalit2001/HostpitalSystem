@@ -1,0 +1,12 @@
+config.db
+*.db
+*.sqlite
+*.sqlite3
+main
+tmp/
+coverage/
+*.cover
+*.out
+*.test
+.env
+.env.*
